@@ -5,4 +5,4 @@
 Install [node.js](https://nodejs.org) if you haven't already. You'll need this in order to run the modmail bot.
 
 ## 2. Create a [Discord Bot](https://discord.com/developers/applications)
-**[Discord Developer Portal](https://discord.com/developers/applications)** > **New Application** > **Bot** > **Add Bot**
+[Discord Developer Portal](https://discord.com/developers/applications) **>** New Application **>** Bot **>** Add Bot
