@@ -1,4 +1,4 @@
-# Wiki
+# Table Of Contents
 Welcome to the wiki page for [BotStudios/modmailbot](https://github.com/BotStudios/modmailbot).
 
 - 🔰 [**Installation Guide**](./installation)
