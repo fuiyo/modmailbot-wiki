@@ -9,3 +9,8 @@ Install [node.js](https://nodejs.org) if you haven't already. You'll need this i
   2. Click New Application 
   3. Goto Bot
   4. Click Add Bot
+  5. Uncheck "Public Bot"
+  5. Enable "Presence Intent", "Server Members Intent" & "Message Content Intent"
+  6. Copy the token and paste it on somewhere private (e.g. notepad)
+
+## 3. 
