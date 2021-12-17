@@ -15,7 +15,7 @@ Install [node.js](https://nodejs.org) if you haven't already. You'll need this i
 
 ## 3. Invite the Discord Bot to a server
   1. Goto OAuth2 > URL Generator 
-  2. Select **bot** then scroll down and select these permissions (view [image example](https://cdn.discordapp.com/attachments/886516950640001085/921433545375895592/unknown.png)):
+  2. Select **bot** then scroll down and select these permissions (view [image example](https://user-images.githubusercontent.com/91641514/146574207-50080821-2303-40ab-bdff-d5ef98ff40e5.png)):
      - View Audit Log
      - Manage Channels
      - Manage Webhooks
