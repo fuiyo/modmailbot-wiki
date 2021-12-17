@@ -27,4 +27,4 @@ Install [node.js](https://nodejs.org) if you haven't already. You'll need this i
      - Read Message History
      - Use External Emojis
      - Add Reactions
-  3. 
+  3. Use the invite link below to invite the bot to your server
