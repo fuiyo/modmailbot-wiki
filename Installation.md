@@ -11,7 +11,7 @@ Install [node.js](https://nodejs.org) if you haven't already. You'll need this i
   4. Click Add Bot
   5. Uncheck "Public Bot"
   5. Enable "Presence Intent", "Server Members Intent" & "Message Content Intent"
-  6. Copy the token and paste it on somewhere private (e.g. notepad)
+  6. Copy the token and paste it on somewhere private (e.g. local notepad)
 
 ## 3. Invite the Discord Bot to a server
   1. Goto OAuth2 > URL Generator 
@@ -28,3 +28,15 @@ Install [node.js](https://nodejs.org) if you haven't already. You'll need this i
      - Use External Emojis
      - Add Reactions
   3. Use the invite link below to invite the bot to your server
+
+## 4. Create a Database
+A database is required for this modmail bot. The bot will be storing datas such as modmail logs and bot configurations such as blocked users, snippets, and .etc. This modmail bot currently supports [MongoDB Atlas](https://www.mongodb.com) only.
+  1. Visit https://www.mongodb.com
+  2. Create an account if you haven't already
+  3. Create a database > Create a database user > Whitelist all IP's
+  4. Obtain a database connection URI (e.g. `mongodb+srv://Username:<password>@modmail.mongodb.net/`)
+  5. Copy the connection URI and paste it on somewhere private (e.g local notepad)
+  6. Replace the `<password>` with the password for the user.
+
+
+  
