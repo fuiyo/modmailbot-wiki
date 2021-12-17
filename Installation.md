@@ -1,1 +1,1 @@
-# Installation
+# Setting Up The Modmail
