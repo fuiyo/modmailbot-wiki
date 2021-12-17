@@ -13,4 +13,17 @@ Install [node.js](https://nodejs.org) if you haven't already. You'll need this i
   5. Enable "Presence Intent", "Server Members Intent" & "Message Content Intent"
   6. Copy the token and paste it on somewhere private (e.g. notepad)
 
-## 3. 
+## 3. Invite the Discord Bot to a server
+  1. Goto OAuth2 > URL Generator 
+  2. Select **bot** then scroll down and select these permissions:
+     - View Audit Log
+     - Manage Channels
+     - Manage Webhooks
+     - View Channels
+     - Send Messages
+     - Manage Messages
+     - Embed Links
+     - Attach Files
+     - Read Message History
+     - Use External Emojis
+     - Add Reactions
