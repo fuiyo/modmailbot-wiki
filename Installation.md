@@ -1,4 +1,4 @@
-# Setup
+# Get Started
 **Don't hesitate to join our [support server](https://discord.com/invite/2JcXU8uJKY) if you need any help related to this bot.**
 
 ## 1. Install [node.js](https://nodejs.org) on your machine
@@ -38,7 +38,14 @@ A database is required for this modmail bot. The bot will be storing datas such 
   5. Copy the connection URI and paste it on somewhere private (e.g local notepad)
   6. Replace the `<password>` with the password for the user.
 
+# Setting Up
+Its time to move on !
 
+## 5. Cloning this repository
+Go ahead and open your terminal or command prompt then type/paste in the code below:
+```
+git clone https://github.com/BotStudios/modmailbot.git
+```
 
 
   
