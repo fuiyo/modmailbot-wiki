@@ -13,4 +13,14 @@ View an example of [configured config.js]()
 | `guildID` | Your modmail thread server ID (the server you use to receive modmails) | true |
 | `category` | ID of the category where threads will be created | true |
 | `roleID` | ID of the role for modmail staff(s) (users without this role cannot reply, view, delete modmails) | true |
-| `prefix` | 
+| `prefix` | The prefix of the bot | true |
+| `colors` | Specify the colors for `primary`, `success`, `error` and `custom` | true |
+| `activity` | Your Bot's Status | false |
+| `logThreads` | Threads logging (log the thread when someone closes a thread) | false |
+| `notifyMsg` | A notification message when someone creates a thread (such as pings and .etc) | false |
+| `webhookURI` | Webhook that will be trigger when someone closes a thread | false |
+| `logsURI` | Threads logging URL | false |
+| `port` | The port where modmail logs viewer will be hosted (this will enable the logs viewer) | false |
+
+
+
