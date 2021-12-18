@@ -45,10 +45,9 @@ Its time to move on !
     1. Go ahead and open your terminal or command prompt then type `cd`
     2. Create a folder for this project somewhere on your computer and drag the folder onto the terminal/command prompt and hit enter
     3. type/paste in the command below:
-
-    ```
+```
     git clone https://github.com/BotStudios/modmailbot.git
-    ```
+```
 
 ## 6. Edit the configuration file
 After using the clone command, you should see a folder named `modmailbot` inside the folder you create. Now, its time to configure the bot.
@@ -78,7 +77,7 @@ module.exports = {
     }
 }
 ```
-*it doesn't matter if its the same or not as long as you can see the `token` and the `databaseURI` property.
+*it doesn't matter if its the same or not as long as you can see the `token` and the `databaseURI` property.*
   
 
   
