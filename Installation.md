@@ -45,6 +45,7 @@ Its time to move on !
     1. Go ahead and open your terminal or command prompt then type `cd`
     2. Create a folder for this project somewhere on your computer and drag the folder onto the terminal/command prompt and hit enter
     3. type/paste in the command below:
+
     ```
     git clone https://github.com/BotStudios/modmailbot.git
     ```
@@ -54,7 +55,8 @@ After using the clone command, you should see a folder named `modmailbot` inside
    1. Open the `modmailbot` folder if you haven't already
    2. Then open the `config.js` file (if you don't have a code editor such as visual studio code, you'll have to right click and open the file with a built in text editor)
    3. You should something like this:
-```
+
+   ```
 module.exports = {
     databaseURI: '',
     port: 3000,
