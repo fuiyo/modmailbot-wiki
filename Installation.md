@@ -46,9 +46,9 @@ Its time to move on !
     2. Create a folder for this project somewhere on your computer and drag the folder onto the terminal/command prompt and hit enter
     3. type/paste in the command below:
 
-```
-    git clone https://github.com/BotStudios/modmailbot.git
-```
+    ```
+git clone https://github.com/BotStudios/modmailbot.git
+    ```
 
 ## 6. Edit the configuration file
 After using the clone command, you should see a folder named `modmailbot` inside the folder you create. Now, its time to configure the bot.
