@@ -42,42 +42,21 @@ A database is required for this modmail bot. The bot will be storing datas such 
 Its time to move on !
 
 ## 5. Cloning this repository
- 1. Go ahead and open your terminal or command prompt then type `cd`
- 2. Create a folder for this project somewhere on your computer and drag the folder onto the terminal/command prompt and hit enter
- 3. type/paste in the command below:
-   ```
+Open your terminal/command prompt and type/paste in the command below:
+```
 git clone https://github.com/BotStudios/modmailbot.git
 ```
 
 ## 6. Edit the configuration file
-After using the clone command, you should see a folder named `modmailbot` inside the folder you create. Now, its time to configure the bot.
-   1. Open the `modmailbot` folder if you haven't already
-   2. Then open the `config.js` file (if you don't have a code editor such as visual studio code, you'll have to right click and open the file with a built in text editor)
-   3. You should something like this:
+After using the clone command, you should see a folder named `modmailbot` inside the folder you create. Now, head over to [this](https://github.com/BotStudios/modmailbot/wiki/Configuration) page to learn more about bot configurations. You can head right back after configuring your bot.
 
-   ```
-module.exports = {
-    databaseURI: '',
-    port: 3000,
-    token: '',
-    guildID: '',
-    category: '',
-    roleID: '',
-    activity: '',
-    prefix: '',  
-    logThreads: true,
-    notifyMsg: '',
-    webhookURI: '',
-    logsURI: '',
-    colors: { 
-        success: '',
-        error: '',
-        primary: '',
-        custom: ''
-    }
-}
-```
-*it doesn't matter if its the same or not as long as you can see the `token` and the `databaseURI` property.*
+## 7. Startup the bot
+After going through those necessary steps, its time to try if bot works. You can straight away open the `start.bat` file if you're on a Windows device. You should be able to startup the bot without opening `start.bat`, or if you're on a linux or macOS device:
+*The following assumes basic knowledge about using command line tools.*
+  - Run `npm ci` in the modmail bot folder before first start up and after every update
+  - Run `npm start` in the modmail bot to start the bot
+  
+
   
 
   
