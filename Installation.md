@@ -54,7 +54,7 @@ After using the clone command, you should see a folder named `modmailbot` inside
    1. Open the `modmailbot` folder if you haven't already
    2. Then open the `config.js` file (if you don't have a code editor such as visual studio code, you'll have to right click and open the file with a built in text editor)
    3. You should something like this:
-     ```js
+     ```
 module.exports = {
     databaseURI: '',
     port: 3000,
