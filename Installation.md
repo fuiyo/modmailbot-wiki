@@ -39,9 +39,8 @@ A database is required for this modmail bot. The bot will be storing datas such 
   6. Replace the `<password>` with the password for the user.
 
 # Setting Up
-Its time to move on !
 
-## 5. Cloning this repository
+## 5. Clone this repository
 Open your terminal/command prompt and type/paste in the command below:
 ```
 git clone https://github.com/BotStudios/modmailbot.git
