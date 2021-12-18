@@ -51,7 +51,7 @@ After using the clone command, you should see a folder named `modmailbot` inside
 
 ## 7. Startup the bot
 After going through those necessary steps, its time to try if bot works. You can straight away open the `start.bat` file if you're on a Windows device. You should be able to startup the bot without opening `start.bat`, or if you're on a linux or macOS device:
-*The following assumes basic knowledge about using command line tools.*
+  *The following assumes basic knowledge about using command line tools.*
   - Run `npm ci` in the modmail bot folder before first start up and after every update
   - Run `npm start` in the modmail bot to start the bot
   
