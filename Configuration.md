@@ -4,7 +4,7 @@
 Open the `config.js` file in the bot's folder. If you don't have a code editor software such as Visual Studio Code, you can simply open the file with a text editor.
 
 ## 2. Configuration Variables
-View an example of [configured config.js]()
+View an example of [configured config.js](https://user-images.githubusercontent.com/91641514/146630100-154e1af8-c064-4541-9b92-c7bf184225db.png)
 
 | Key       | Description                                                        | Required |
 | --------- | ------------------------------------------------------------------ | -------- |
