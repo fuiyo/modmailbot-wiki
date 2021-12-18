@@ -46,7 +46,7 @@ Its time to move on !
     2. Create a folder for this project somewhere on your computer and drag the folder onto the terminal/command prompt and hit enter
     3. type/paste in the command below:
 
-    ```
+```
 git clone https://github.com/BotStudios/modmailbot.git
     ```
 
