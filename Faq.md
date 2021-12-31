@@ -8,7 +8,7 @@ You can customize this bot with listeners, having custom replies and able to per
       - Reacting To Messages
       - Editing Channels
 
-## 2. What's the `customReply` option in the config file ?
+## 2. What's the `customReply` option in the config file for ?
 (for some serious situation that requires some actions to prevent confusion)
 
 ## 3. Support for other databases
