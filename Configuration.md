@@ -15,6 +15,7 @@ View an example of [configured config.js](https://user-images.githubusercontent.
 | `roleID` | ID of the role for modmail staff(s) (users without this role cannot reply, view, delete modmails) | true |
 | `prefix` | The prefix of the bot | true |
 | `colors` | Specify the colors for `primary`, `success`, `error` and `custom` | true |
+| `customReply` | Able to customize replies in some situation | false |
 | `activity` | Your Bot's Status | false |
 | `logThreads` | Threads logging (log the thread when someone closes a thread) | false |
 | `notifyMsg` | A notification message when someone creates a thread (such as pings and .etc) | false |
