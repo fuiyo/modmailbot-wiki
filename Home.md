@@ -3,4 +3,5 @@ Welcome to the wiki page for [BotStudios/modmailbot](https://github.com/BotStudi
 
 - 🔰 [**Installation Guide**](./installation)
 - 💬 [**Frequently Asked Questions**](./faq)
-- ✨ [**Customizable/Configurable Options**](./more-options)
+- ✨ [**Customizable/Configurable Options**](./configuration)
+- 📑 [**Credits**](./credits)
