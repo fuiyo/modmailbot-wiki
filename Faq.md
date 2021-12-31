@@ -7,3 +7,6 @@ You can customize this bot with listeners, having custom replies and able to per
       - Sending Messages
       - Reacting To Messages
       - Editing Channels
+
+## 2. What's The `customReply` Option For In The Config File ?
+(for some serious situation that requires some actions to prevent confusion)
