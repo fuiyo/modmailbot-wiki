@@ -9,10 +9,7 @@ You can customize this bot with listeners, having custom replies and able to per
       - Editing Channels
 
 ## 2. What's the `customReply` option in the config file for ?
-(for some serious situation that requires some actions to prevent confusion)
+As you know, there are many things you can customize when you set this bot up, but at the same time some users might not want to customize their bot and prefer to use default replies, and this is what `customReply` for, if you would like to customize replies for some serious situation that requires some actions (e.g. Reacting ✅ to the message when a staff replies to a thread) to prevent confusion. This option was disabled by default. 
 
 ## 3. Support for other databases
 This modmailbot only supports (currently) MongoDB, as its hard for us to add support for more databases. With that said, if you can, please do contribute codes that adds support for other databases. 🤗🤗
-
-## 4. Why MongoDB
-We chose MongoDB as its simple to setup and use with the help of [mongoosejs](https://npmjs.com/mongoose).
