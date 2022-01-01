@@ -17,6 +17,7 @@ View an example of [configured config.js](https://user-images.githubusercontent.
 | `colors` | Specify the colors for `primary`, `success`, `error` and `custom` | true |
 | `customReply` | Able to customize replies in some situation | false |
 | `activity` | Your Bot's Status | false |
+| `threadCloseDelay` | Delay (deleting a channel) after a staff runs the close or delete thread command | false |
 | `logThreads` | Threads logging (log the thread when someone closes a thread) | false |
 | `notifyMsg` | A notification message when someone creates a thread (such as pings and .etc) | false |
 | `webhookURI` | Webhook that will be trigger when someone closes a thread | false |
