@@ -14,7 +14,7 @@ Install [node.js](https://nodejs.org) if you haven't already. You'll need this i
   6. Copy the token and paste it on somewhere private (e.g. local notepad)
 
 ## 3. Invite the Discord Bot to a server
-Note: You can add the bot into two servers if you want to have a dedicated server just for the modmail threads.
+Note: You can add the bot into two servers if you want to have a private server just for the modmail threads.
   1. Goto OAuth2 > URL Generator 
   2. Select **bot** then scroll down and select these permissions (view [image example](https://user-images.githubusercontent.com/91641514/146574207-50080821-2303-40ab-bdff-d5ef98ff40e5.png)):
      - View Audit Log
