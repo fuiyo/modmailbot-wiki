@@ -31,7 +31,7 @@ Note: You can add the bot into two servers if you want to have a private server 
   3. Use the invite link below to invite the bot to your server(s)
 
 ## 4. Create a Database
-A database is required for this modmail bot. The bot will be storing datas such as modmail logs and bot configurations such as blocked users, snippets, and .etc. This modmail bot currently supports [MongoDB Atlas](https://www.mongodb.com) only.
+A database is required for this modmail bot. The bot will be storing datas such as modmail logs and bot configurations such as blocked users, snippets, and .etc. This modmail bot only supports [MongoDB Atlas](https://www.mongodb.com).
   1. Visit https://www.mongodb.com
   2. Create an account if you haven't already
   3. Create a database > Create a database user > Whitelist all IP's
