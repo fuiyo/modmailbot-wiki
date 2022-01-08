@@ -1,4 +1,5 @@
-## [Example Modmail Plugin](https://npmjs.com/example-modmail-plugin)
+### [Example Modmail Plugin](https://npmjs.com/example-modmail-plugin)
+
     - Custom replies on `threadOpen` & `threadClose`
 
 -------
