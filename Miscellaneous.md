@@ -1,6 +1,7 @@
 ## Listeners
 *The following assumes basic knowledge about the library [discord.js](https://npmjs.com/discord.js) and event handling*
 - List of [events](https://github.com/BotStudios/modmailbot/blob/main/info.json)
+- List of [things that you should be aware of](https://github.com/BotStudios/modmailbot/wiki/Faq#1-listenersevent-handling)
 ```js
 ... index.js
 const utils = new (require('./manager'))(client, collection);
@@ -23,3 +24,5 @@ utils.on('logDelete', (user, staff) => {
    user.send({ embeds: [embed] })
 })
 ```
+
+## Plugins
