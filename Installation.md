@@ -28,7 +28,7 @@ Note: You can add the bot into two servers if you want to have a private server 
      - Read Message History
      - Use External Emojis
      - Add Reactions
-  3. Use the invite link below to invite the bot to your server
+  3. Use the invite link below to invite the bot to your server(s)
 
 ## 4. Create a Database
 A database is required for this modmail bot. The bot will be storing datas such as modmail logs and bot configurations such as blocked users, snippets, and .etc. This modmail bot currently supports [MongoDB Atlas](https://www.mongodb.com) only.
