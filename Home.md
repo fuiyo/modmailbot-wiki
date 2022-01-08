@@ -5,3 +5,5 @@ Welcome to the wiki page for [BotStudios/modmailbot](https://github.com/BotStudi
 - 💬 [**Frequently Asked Questions**](./faq)
 - ✨ [**Customizable/Configurable Options**](./configuration)
 - 📑 [**Credits**](./credits)
+- 🌀 [**Miscellaneous**](./Miscellaneous)
+- 🎨 [**Plugins**](./plugins)
