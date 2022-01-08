@@ -10,7 +10,7 @@ You can customize this bot with listeners, having custom replies and able to per
       - Delays
 
 ## 2. What's the `customReply` option in the config file for ?
-As you know, there are many things you can customize when you set this bot up, but at the same time some users might not want to customize their bot and prefer to use the default replies, and this is what `customReply` for, if you would like to customize replies for some serious situation that requires some actions to prevent confusion.  This option was disabled by default. Feel free to ask our support team on our support server if you need any help with this.
+As you know, there are many things you can customize when you set this bot up, but at the same time some users might not want to customize their bot and prefer to use the default replies, and this is what `customReply` for, if you would like to customize replies for/on some serious situation that requires some actions to prevent confusion.  This option was disabled by default. Feel free to ask our support team on our support server if you need any help with this.
 
 ## 3. Support for other databases
 This modmailbot only supports (currently) MongoDB, as its hard for us to add support for more databases. With that said, if you can, please do contribute codes that adds support for other databases. 🤗🤗
