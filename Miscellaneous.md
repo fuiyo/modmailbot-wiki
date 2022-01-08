@@ -26,4 +26,12 @@ utils.on('logDelete', (user, staff) => {
 ```
 
 ## Plugins
-*You should only use a plugin by a trusted developers (from our [list of plugins](https://github.com/BotStudios/ModmailBot/Wiki/Plugins)) as they'll have access to your entire bot*
+*You should only use a plugin made by a trusted developers (from our [list of plugins](https://github.com/BotStudios/ModmailBot/Wiki/Plugins)) as they'll have access to your entire bot (e.g. Sending messages, reading threads, tokens, deleting threads)*
+- **You will not be able to get support in our support channel if you're using any third party plugins**
+To add a plugin:
+```js
+const utils = new (require('./manager'))(client, collection);
+const examplePlugin = require('example-modmail-plugin');
+
+examplePlugin(utils);
+```
