@@ -26,3 +26,4 @@ utils.on('logDelete', (user, staff) => {
 ```
 
 ## Plugins
+*You should only use a plugin by a trusted developers (from our [list of plugins](https://github.com/BotStudios/ModmailBot/Wiki/Plugins)) as they'll have access to your entire bot*
