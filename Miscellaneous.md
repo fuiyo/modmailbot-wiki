@@ -6,7 +6,7 @@
 ... index.js
 const utils = new (require('./manager'))(client, collection);
 
-utils.on('logCreate', (user) => {
+utils.on('threadCreate', (user) => {
   var embed = new Discord.MessageEmbed()
      .setColor('RANDOM')
      .setTitle('Thread Created')
@@ -15,7 +15,7 @@ utils.on('logCreate', (user) => {
    user.send({ embeds: [embed] })
 })
 
-utils.on('logDelete', (user, staff) => { 
+utils.on('threadClose', (user, staff) => { 
   var embed = new Discord.MessageEmbed()
      .setColor('RANDOM')
      .setTitle('Thread Closed')
