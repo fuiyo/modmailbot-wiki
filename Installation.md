@@ -51,7 +51,7 @@ git clone https://github.com/BotStudios/modmailbot.git
 After using the clone command, you should see a folder named `modmailbot` inside the folder you create. Now, head over to [this](https://github.com/BotStudios/modmailbot/wiki/Configuration) page to learn more about bot configurations. You can head right back after configuring your bot.
 
 ## 7. Startup the bot
-After going through those necessary steps, its time to try if bot works. You can straight away open the `start.bat` file if you're on a Windows device. You should be able to startup the bot without opening `start.bat`, or if you're on a linux or macOS device:
+After going through those necessary steps, its time to try if the bot works. You can straight away open the `start.bat` file if you're on a Windows device. You should be able to startup the bot without opening `start.bat`, or if you're on a linux or macOS device:
 
   *The following assumes basic knowledge about using command line tools.*
   - Run `npm ci` in the modmail bot folder before first start up and after every update
