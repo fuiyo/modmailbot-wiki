@@ -27,7 +27,8 @@ utils.on('threadClose', (user, staff) => {
 
 ## Plugins
 *You should only use a plugin made by trusted developers (from our [list of plugins](https://github.com/BotStudios/ModmailBot/Wiki/Plugins)) as they'll have access to your entire bot (e.g. Sending messages, reading threads, tokens, deleting threads)*
-- **You will not be able to get support in our official support channel if you're using any third party plugins**
+- **You will not be able to get support in our official support channel if you're using any third party plugins，however, you can still report your issue in the #third-party-plugins channel**
+
 To add a plugin ([example](https://npmjs.com/example-modmail-plugin)):
 ```js
 const utils = new (require('./manager'))(client, collection);
