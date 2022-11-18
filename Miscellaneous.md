@@ -49,7 +49,7 @@ It is possible to implement a custom command for your modmail bot !
 
 ### Module
 Your command module should look like so
-```
+```js
 module.exports = {
     name: 'ping', // command name (required)
     description: 'Reply with pong', // description for this command, for the help command (required)
