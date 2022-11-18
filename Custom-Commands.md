@@ -21,6 +21,7 @@ module.exports = {
 ## Options
 Functions that are available to command modules
 
+| Key     | Description          |
 | ------- | ------------------------------------------------------------------------------- |
 | **bot** | The `client`, `utils` & `manager` objects (basically access to your entire bot) |
 | **config** | Your config file |
