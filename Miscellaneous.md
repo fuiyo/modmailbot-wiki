@@ -1,4 +1,4 @@
-## Listeners
+# Listeners
 *The following assumes basic knowledge about the library [discord.js](https://npmjs.com/discord.js) and event handling*
 - List of [events](https://github.com/BotStudios/modmailbot/blob/main/info.json)
 - [Things that you should be aware of](https://github.com/BotStudios/modmailbot/wiki/Faq#1-listenersevent-handling)
@@ -25,7 +25,7 @@ utils.on('threadClose', (user, staff) => {
 })
 ```
 
-## Plugins
+# Plugins
 *You should only use a plugin made by trusted developers (from our [list of plugins](https://github.com/BotStudios/ModmailBot/Wiki/Plugins)) as they'll have access to your entire bot (e.g. Sending messages, reading threads, tokens, deleting threads)*
 - **You will not be able to get support in our official support channel if you're using any third party plugins，however, you can still report your issue in the #third-party-plugins channel**
 
