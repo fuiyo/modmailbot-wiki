@@ -4,7 +4,7 @@ It is possible to implement a custom command for your modmail bot !
 - Implementing your own commands that are not officially verified by the developers may break the bot, implement a command at your own risk.
 - We don't give support for custom commands
 - You should only implement a command from a developer that you trust, the command modules are given access to your entire bot, this includes your token, and some serious data.
-- Only the users with modmail staff (with the modmail role) can execute these commands
+- Only the modmail staff (users with the modmail role) are able execute these commands
 
 ## Module
 Your command module should look like so
