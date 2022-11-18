@@ -1,4 +1,3 @@
-# Custom Commands
 It is possible to implement a custom command for your modmail bot !
 
 ## Notes
